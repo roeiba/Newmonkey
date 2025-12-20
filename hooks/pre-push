@@ -1,0 +1,23 @@
+#!/bin/bash
+# Pre-push hook: Regenerate monkey visualization and update README
+
+echo "🐵 Regenerating monkey visualization..."
+
+# Generate SVG
+python src/cli.py visualize 2>/dev/null
+
+# Update README with image reference
+python src/cli.py update-readme 2>/dev/null
+
+# Stage the updated files
+git add monkey_data/monkey.svg README.md 2>/dev/null
+
+# Check if there are changes to commit
+if git diff --cached --quiet; then
+    echo "✅ No visualization changes"
+else
+    echo "📝 Committing visualization updates..."
+    git commit --amend --no-edit 2>/dev/null
+fi
+
+exit 0

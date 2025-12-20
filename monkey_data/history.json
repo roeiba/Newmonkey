@@ -1,0 +1,324 @@
+{
+  "entries": [
+    {
+      "timestamp": "2025-11-20T17:00:43.757695",
+      "dna_hash": "576a6a3c176765b4",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "zen",
+        "accessory": "none",
+        "pattern": "stars",
+        "background": "blue_sky",
+        "special": "particles"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-11-20T17:00:54.511609",
+      "dna_hash": "a1046945485601d0",
+      "generation": 1,
+      "mutation_count": 2,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "zen",
+        "accessory": "none",
+        "pattern": "stars",
+        "background": "sunset",
+        "special": "particles"
+      },
+      "story": "Your monkey evolved randomly!"
+    },
+    {
+      "timestamp": "2025-11-20T17:38:47.784943",
+      "dna_hash": "7c223d5350aba1b9",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 26.666666666666668,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "curious",
+        "accessory": "bandana",
+        "pattern": "quantum",
+        "background": "blue_sky",
+        "special": "shadow"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-11-20T17:39:02.092330",
+      "dna_hash": "533b79af49812bee",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "city",
+        "special": "sparkles"
+      },
+      "story": "\ud83c\udf89 Your monkey was born!"
+    },
+    {
+      "timestamp": "2025-11-20T17:50:40.009446",
+      "dna_hash": "fd1299d7e9c34251",
+      "generation": 1,
+      "mutation_count": 2,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "beach",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: background: city \u2192 beach"
+    },
+    {
+      "timestamp": "2025-11-21T01:15:40.988893",
+      "dna_hash": "1f0635e4b1926b99",
+      "generation": 1,
+      "mutation_count": 3,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: background: beach \u2192 space"
+    },
+    {
+      "timestamp": "2025-11-22T10:29:07.187660",
+      "dna_hash": "1f0635e4b1926b99",
+      "generation": 1,
+      "mutation_count": 3,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "winking",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-11-23T01:18:19.119028",
+      "dna_hash": "dbe15df467e2e805",
+      "generation": 1,
+      "mutation_count": 4,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "cosmic",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: winking \u2192 cosmic"
+    },
+    {
+      "timestamp": "2025-11-24T01:16:48.059876",
+      "dna_hash": "dbe15df467e2e805",
+      "generation": 1,
+      "mutation_count": 4,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "cosmic",
+        "accessory": "simple_hat",
+        "pattern": "solid",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-11-25T01:14:33.778050",
+      "dna_hash": "f2531cb5a694b90e",
+      "generation": 1,
+      "mutation_count": 6,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "diamonds",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: cosmic \u2192 legendary, pattern: solid \u2192 diamonds"
+    },
+    {
+      "timestamp": "2025-11-26T01:15:59.086669",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: pattern: diamonds \u2192 hearts"
+    },
+    {
+      "timestamp": "2025-11-27T01:15:42.176667",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-11-28T01:15:51.626480",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-14T01:18:16.743540",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-15T01:18:09.311062",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-16T01:17:31.154849",
+      "dna_hash": "468a7ae49bdc6d65",
+      "generation": 1,
+      "mutation_count": 7,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-17T01:15:46.401225",
+      "dna_hash": "e437afb8a9d141a5",
+      "generation": 1,
+      "mutation_count": 8,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: body_color: tan \u2192 gray"
+    },
+    {
+      "timestamp": "2025-12-18T01:14:23.655096",
+      "dna_hash": "e437afb8a9d141a5",
+      "generation": 1,
+      "mutation_count": 8,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-19T01:17:11.299331",
+      "dna_hash": "e437afb8a9d141a5",
+      "generation": 1,
+      "mutation_count": 8,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-20T01:16:02.181011",
+      "dna_hash": "e437afb8a9d141a5",
+      "generation": 1,
+      "mutation_count": 9,
+      "rarity_score": 35.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "space",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
+    }
+  ]
+}
